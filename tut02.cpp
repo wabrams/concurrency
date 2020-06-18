@@ -1,3 +1,4 @@
+// pass parameters to thread
 #include <iostream>
 #include <thread>
 
